@@ -1,0 +1,17 @@
+h1{
+  color: green;
+  text-align: center;
+  background-color: black;
+  font-size: 80px;
+  font-style: italic;
+}
+
+.tamjid{
+  color: red;
+}
+.img{
+  width: 500px;
+  height: 500px;
+  align-items: center;
+  margin-left: 400px;
+}
